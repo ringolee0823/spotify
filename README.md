@@ -1,14 +1,6 @@
-# STAT 5106 Final Project - Spotify and Happiness Index Data Analysis Report
+Spotify and Happiness Index Data Analysis
 
 ![](Image//z_spotify_banner.jpeg)
-
-**Group 7 Member List**
-=
-- 1007628404 Lee Ling
-- 1155015951 Law Chun Hoi
-- 1155034310 Wong Sui Hong	
-- 1155167073 Cheng Ho Yeung 
-- 1155169045 Pang Ka Wing
 
 Table of content
 =
