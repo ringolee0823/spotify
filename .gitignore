@@ -1,3 +1,8 @@
+# Customs
+*.pickle
+.DS_Store
+Music_Wallpaper.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
